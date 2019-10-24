@@ -33,5 +33,5 @@ Those 3 model were then put through the test and evaluation set of data to deter
 From there I tweaked the Threshold of the model to try and achieve an even split between false negative and false positive results instead of a skewed result.
 
 Final Result : 
-Accuracy of Training Set = 0.8993824918270977
-Accuracy of Testing Set = 0.8737300435413643
+- Accuracy of Training Set = 0.8993824918270977
+- Accuracy of Testing Set = 0.8737300435413643
